@@ -1,7 +1,13 @@
-This project is 
+This project is a Custom COuntdown Timer.
+It allows Users to enter a title for asomething they want to countdown to.
+Users can select a time and date (manually or using a date picker). Once the countdown timer is set, the details are stored locally so the User can navigate away from the page and when they retunr the countdown will still be running. 
 
-It uses 
+Once the countdown completes the User is presented with a Completed page and given the opportunityb to submit another countdown.
+
+There is a video background included.
+
+It uses HTML, CSS and JavaScript and is mobile responsive
 
 It can be used as an example of 
 
-- 
+- a To-Do 
